@@ -12,7 +12,7 @@ import manaliImg from "../Assets/ManaliImg.jpg";
 const Cards = () => {
   const destinations = [
     { title: "Shimla", image: shimlaimage, description: "Hills, heritage, and serenity in Shimla.", price: "Starting at $80", plan: "3 Day - 3 Night", },
-    { title: "TajMahel", image: Tajmahelimage, description: "Love, history, grandeur at the Taj Mahal.", price: "Starting at $75", plan: "4 Day - 2 Night",},
+    { title: "Taj Mahel", image: Tajmahelimage, description: "Love, history, grandeur at the Taj Mahal.", price: "Starting at $75", plan: "4 Day - 2 Night",},
     { title: "Jaipur", image: jaipurimage, description: "Royals, architecture, and culture in Jaipur.", price: "Starting at $89", plan: "2 Day - 2 Night", },
     { title: "Statue Of Unity", image: statueimage, description: "Strength, legacy, and marvel at the Statue of Unity.", price: "Starting at $110", plan: "2 Day - 3 Night", },
     { title: "Lakshadweep", image: Lakshadweepimage, description: "Pristine beaches, marine life, and tranquility in Lakshadweep.", price: "Starting at $90", plan: "2 Day - 4 Night", },

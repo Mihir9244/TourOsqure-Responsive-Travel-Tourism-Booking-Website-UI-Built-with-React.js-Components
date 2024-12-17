@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import Header from './components/Header';
 import Heroslider from './components/Heroslider';
-import About from './components/About';
+import About from './components/About.js';
 import Cardsinternational from './components/Cards international';
 import Cardsnational from './components/Cards national';
 import Content from './components/Content';
