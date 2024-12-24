@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# TourOsqure-Responsive-Travel-Tourism-Booking-Website-UI-Built-with-React.js-Components
+TourOsqure is a responsive travel booking web application built using React.js and Bootstrap. Designed to deliver a seamless and user-friendly travel experience, it highlights real-world UI design practices with reusable components, attractive layouts, and responsive styling.
+>>>>>>> dcc7f96479244162535bc077d6635ff0aa6c2e09
